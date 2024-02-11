@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8298291980",
+    "project_id": "koeadmin-aa321",
+    "storage_bucket": "koeadmin-aa321.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8298291980:android:f5a467a6df244af6371f29",
+        "android_client_info": {
+          "package_name": "com.example.KoeAdmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGC8CATRgzNIlHXenvvhgHrdjJ430Trt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
